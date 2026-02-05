@@ -274,7 +274,7 @@ begin
   if not DirectoryExists(wbTempPath) then
     ForceDirectories(wbTempPath);
 
-  OutFile := wbTempPath + 'Export_All_Dialogue.csv';
+  OutFile := wbTempPath + 'Fallout_New_Vegas_dataset.csv';
   OutLines := TStringList.Create;
 
   OutLines.Add(
