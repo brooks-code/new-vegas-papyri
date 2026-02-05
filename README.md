@@ -69,8 +69,8 @@ This Pascal/Delphi unit is a FNVEdit (xEdit FNV variant) script that scans loade
 - Output file: `<wbTempPath>Fallout_New_Vegas_dataset.csv`
   - Usuallly located within: `C:/Users/YourWindowsUserName/AppData/Local/Temp`, where `YourWindowsUserName` is your actual user name.
 
-  > [!WARNING]
-  > Output file is deleted from the `Temp` folder on application exit.
+> [!WARNING]
+> Output file is deleted from the `Temp` folder on application exit.
 
 - CSV header:
 
