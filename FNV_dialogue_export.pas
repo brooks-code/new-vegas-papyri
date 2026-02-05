@@ -278,8 +278,8 @@ begin
   OutLines := TStringList.Create;
 
   OutLines.Add(
-    'signature;file_name;formID;EditorID;text_content;content_source;' +
-    'Name;Topic;Quest;topLevelPath;additional_content;speaker'
+    'signature;file_name;formID;editorID;text_content;content_source;' +
+    'name;topic;quest;topLevelPath;additional_content;speaker'
   );
 
   RecordCounter := 0;
