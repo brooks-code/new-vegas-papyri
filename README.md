@@ -9,7 +9,7 @@
 
 > The motivation behind this script is to generate a dataset that I can use to experiment some computational linguistics and NLP methods on a corpus that captures the grit, slang, and broken etiquette of the Fallout speech. With that linguistic rubble in hand, you can play with topic models to unearth recurring rumors, build language models that mimic irradiated idioms or just train classifiers and measure how some patterns shape in-game dialects.
 
-> [!INFO]
+> [!NOTE]
 > The dataset is available on [Kaggle](https://www.kaggle.com/datasets/grimespoint/fallout-new-vegas-dataset) with an exploratory [notebook](https://www.kaggle.com/code/grimespoint/fallout-new-vegas-dataset-exploration) and in the Kaggle [archive repository](https://github.com/brooks-code/kaggle).
 
 ## Table of Contents
