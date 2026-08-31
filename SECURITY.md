@@ -4,6 +4,6 @@ I take security issues very seriously. Do not hesitate to report any kind of iss
 
 ## Reporting a Vulnerability
 
-Navigate to the [GitHub Advisories page](https://github.com/brooks-code/new-vegas-papyri/security/advisories) for this repository and click *'Report a Vulnerability'*.
+Navigate to the [GitHub Advisories page](https://github.com/hyperphantasia/new-vegas-papyri/security/advisories) for this repository and click *'Report a Vulnerability'*.
 
 Merci!

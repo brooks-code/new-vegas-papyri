@@ -32,7 +32,7 @@ Click the “Fork” button in the top-right corner of this page.
 ### 2. Clone your fork  
 
 ```bash
-git clone https://github.com/brooks-code/new-vegas-papyri.git
+git clone https://github.com/hyperphantasia/new-vegas-papyri.git
 cd new-vegas-papyri
 ```
 
